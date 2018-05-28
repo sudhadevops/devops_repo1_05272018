@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6F2-3589
+
+ Directory of C:\Users\MANDALAPU\Desktop\devops_practice-1_05272018
+
+05/27/2018  09:11 PM    <DIR>          .
+05/27/2018  09:11 PM    <DIR>          ..
+05/27/2018  09:11 PM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  136,320,495,616 bytes free
